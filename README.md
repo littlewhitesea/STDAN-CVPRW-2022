@@ -2,7 +2,7 @@
 
 This is the official Pytorch implementation of Space-Time Video Super-Resolution Using Deformable Attention Network.
 
-(The code is coming soon)
+(The code is based on [detectron2](https://github.com/facebookresearch/detectron2), which is coming soon)
 
 ## Dependencies
 
