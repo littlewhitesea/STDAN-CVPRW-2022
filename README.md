@@ -14,5 +14,6 @@ This is the official Pytorch implementation of Space-Time Video Super-Resolution
 
 1. Install Pre-Bulit Detectron2:
 
-`python -m pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.8/index.html`
+`python -m pip install detectron2 -f \
+https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.8/index.html`
 
