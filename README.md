@@ -13,10 +13,10 @@ This is the official Pytorch implementation of _Space-Time Video Super-Resolutio
 
 ## Installation
 
-1. Install Pre-Bulit Detectron2:
+1. Install the required packages:
 
-`python -m pip install detectron2 -f \
-https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.8/index.html`
+   `pip install -r requirements.txt`
+
 
 ## Acknowledgments
 Our code is inspired by [Zooming Slow-Mo](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) and [Detectron2](https://github.com/facebookresearch/detectron2)
