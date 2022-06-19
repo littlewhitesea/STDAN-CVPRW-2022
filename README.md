@@ -26,6 +26,21 @@ This is the official Pytorch implementation of _Space-Time Video Super-Resolutio
 
 ## Testing
 
+### Testing on Vid4/SPMC datasets
+   
+   ```
+   cd YOUR_PATH/STDAN/codes
+   python test.py
+   ```
+
+### Testing on Vimeo-Slow/Medium/Fast datasets
+
+   ```
+   cd YOUR_PATH/STDAN/codes
+   python test_vimeo.py
+   ```
+
+
    
 
 
