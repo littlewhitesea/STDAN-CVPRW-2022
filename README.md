@@ -14,8 +14,19 @@ This is the official Pytorch implementation of _Space-Time Video Super-Resolutio
 ## Installation
 
 1. Install the required packages:
+   ```
+   pip install -r requirements.txt
+   ```
+   
+2. Compile the deformable attention and convolution:
+   ```
+   cd YOUR_PATH/STDAN/codes/models/modules/DCNv2_latest
+   bash make.sh
+   ```
 
-   `pip install -r requirements.txt`
+## Testing
+
+   
 
 
 ## Acknowledgments
