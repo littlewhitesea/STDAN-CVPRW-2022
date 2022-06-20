@@ -42,7 +42,7 @@ python train.py -opt options/train/train_stdan.yml
 
 ### Pretrained Models
 
-Our pretrained model can be downloaded via [Google Drive](https://drive.google.com/file/d/1aIbbQYTL2H4F_Uxt2YDY8lxFhfwRPHG4/view?usp=sharing) or [Baidu Netdisk](https://pan.baidu.com/s/1S-N5-yujrT4ZnIGc-BFXpA)[access code: gnhk].
+Our pretrained model can be downloaded via [Google Drive](https://drive.google.com/file/d/1aIbbQYTL2H4F_Uxt2YDY8lxFhfwRPHG4/view?usp=sharing) or [Baidu Netdisk](https://pan.baidu.com/s/1S-N5-yujrT4ZnIGc-BFXpA)(access code: gnhk). After you obtain the pretrained model, please put them into the 'YOUR_PATH/experiments/pretrained_models' folder.
 
 ### Testing on Vid4/SPMC datasets
    
