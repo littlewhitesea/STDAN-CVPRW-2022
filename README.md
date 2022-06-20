@@ -24,6 +24,20 @@ This is the official Pytorch implementation of _Space-Time Video Super-Resolutio
    bash make.sh
    ```
 
+## Training
+
+### Dataset preparation
+
+You require to prepare datasets for training the model, the detailed information is elaborated in Data Preparation.
+
+### Train the STDAN model
+
+```
+cd YOUR_PATH/codes
+python train.py -opt options/train/train_stdan.yml
+```
+
+
 ## Testing
 
 ### Pretrained Models
@@ -33,14 +47,14 @@ Our pretrained model can be downloaded via [Google Drive](https://drive.google.c
 ### Testing on Vid4/SPMC datasets
    
    ```
-   cd YOUR_PATH/STDAN/codes
+   cd YOUR_PATH/codes
    python test.py
    ```
 
 ### Testing on Vimeo-Slow/Medium/Fast datasets
 
    ```
-   cd YOUR_PATH/STDAN/codes
+   cd YOUR_PATH/codes
    python test_vimeo.py
    ```
 
