@@ -26,6 +26,10 @@ This is the official Pytorch implementation of _Space-Time Video Super-Resolutio
 
 ## Testing
 
+### Pretrained Models
+
+Our pretrained model can be downloaded via [Google Drive](https://drive.google.com/file/d/1aIbbQYTL2H4F_Uxt2YDY8lxFhfwRPHG4/view?usp=sharing).
+
 ### Testing on Vid4/SPMC datasets
    
    ```
@@ -45,5 +49,5 @@ This is the official Pytorch implementation of _Space-Time Video Super-Resolutio
 
 
 ## Acknowledgments
-Our code is inspired by [Zooming Slow-Mo](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) and [Detectron2](https://github.com/facebookresearch/detectron2)
+Our code is based on [Zooming Slow-Mo](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) and [Detectron2](https://github.com/facebookresearch/detectron2)
 
