@@ -2,8 +2,6 @@
 
 This is the official Pytorch implementation of _Space-Time Video Super-Resolution Using Deformable Attention Network_.
 
-(The code is coming soon)
-
 ## Dependencies
 
 - Python 3.8.0 (Recommend to use Anaconda)
