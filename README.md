@@ -26,7 +26,7 @@ This is the official Pytorch implementation of _Space-Time Video Super-Resolutio
 
 ### Dataset preparation
 
-You require to prepare datasets for training the model, the detailed information is elaborated in Data Preparation.
+You require to prepare datasets for training the model, the detailed information is elaborated in [Data Preparation](https://github.com/littlewhitesea/STDAN-CVPRW-2022/blob/main/datasets/readme.md).
 
 ### Train the STDAN model
 
