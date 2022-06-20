@@ -63,5 +63,5 @@ Our pretrained model can be downloaded via [Google Drive](https://drive.google.c
 
 
 ## Acknowledgments
-Our code is based on [Zooming Slow-Mo](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) and [Detectron2](https://github.com/facebookresearch/detectron2)
+Our code is based on [Zooming Slow-Mo](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) and [Detectron2](https://github.com/facebookresearch/detectron2).
 
